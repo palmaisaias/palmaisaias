@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Isaias Palma</h1>
 <h3 align="center">A passionate developer from California</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.webp?cid=790b7611pkwtz7k2ft6m1ksi70pktpzqsuaw5hrxdhx4inqr&ep=v1_gifs_search&rid=giphy.webp&ct=g")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitpalma&label=Profile%20views&color=0e75b6&style=flat" alt="bitpalma" /> </p>
 
