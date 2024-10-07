@@ -1,5 +1,5 @@
 <div style="width:100%; height:200px; overflow:hidden;">
-  <img src="https://user-images.githubusercontent.com/38730778/214901429-9a5944da-6de9-484c-ae4c-5f4aa899793c.png" alt="Header Image" style="width:100%; height:auto; object-fit:cover;">
+  <img src="https://rerouting.ca/wp-content/uploads/2021/03/Simple-Technology-LinkedIn-Banner.png" alt="Header Image" style="width:100%; height:auto; object-fit:cover;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Isaias Palma</h1>
