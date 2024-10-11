@@ -7,21 +7,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitpalma&label=Profile%20views&color=0e75b6&style=flat" alt="bitpalma" /> </p>
 
-- 🔭 I’m currently working on [Echo](https://github.com/palmaisaias/Echo.git)
+- 💻  I’m currently working on [Echo](https://github.com/palmaisaias/Echo.git)
 
-- 🌱 I’m currently learning **React Native, Swift**
+- 📕  I’m currently learning **React Native, Swift**
 
-- 👯 I’m looking to collaborate on **ANYthing fun**
+- 🤝  I’m looking to collaborate on **ANYthing fun**
 
-- 🤝 I’m looking for help with **Facial Recognition**
+- 🆔 I’m looking for help with **Facial Recognition**
 
 - 💬 Ask me about **Python, RESTful API's**
 
-- 📫 How to reach me **palmaisaias@yahoo.com**
+- 📧  How to reach me **palmaisaias@yahoo.com**
 
-- 📄 Know about my experiences [isaiaspalma.com](isaiaspalma.com)
+- 🖥️  Know about my experiences [isaiaspalma.com](isaiaspalma.com)
 
-- ⚡ Fun fact **Love the balance between coding for hours and staying outdoors for days**
+- 🌲  Fun fact **Love the balance between coding for hours and staying outdoors for days**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
