@@ -2,7 +2,7 @@
   <img src="https://rerouting.ca/wp-content/uploads/2021/03/Simple-Technology-LinkedIn-Banner.png" alt="Header Image" style="width:100%; height:auto; object-fit:cover;">
 </div>
 
-<h1 align="center">Hi 👋, I'm Isaias Palma</h1>
+<h1 align="center">Isaias Palma</h1>
 <h3 align="center">A passionate developer from California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitpalma&label=Profile%20views&color=0e75b6&style=flat" alt="bitpalma" /> </p>
